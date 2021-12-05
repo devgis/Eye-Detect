@@ -1,0 +1,6 @@
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GazeTrackingLibrary.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GazeTrackingLibrary.pdb
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.csproj.AssemblyReference.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GazeTrackingLibrary\obj\x86\Debug\GazeTrackingLibrary.pdb

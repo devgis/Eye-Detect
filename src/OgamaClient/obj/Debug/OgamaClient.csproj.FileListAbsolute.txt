@@ -1,0 +1,12 @@
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GazeTrackerUI.exe.log4net
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\OgamaClient.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\OgamaClient.pdb
+C:\Users\liyafei\Downloads\GazeTracker-master\src\OgamaClient\obj\Debug\OgamaClient.csproj.AssemblyReference.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\OgamaClient\obj\Debug\OgamaClient.g.resources
+C:\Users\liyafei\Downloads\GazeTracker-master\src\OgamaClient\obj\Debug\OgamaClient.Controls.EyeVideoControl.resources
+C:\Users\liyafei\Downloads\GazeTracker-master\src\OgamaClient\obj\Debug\OgamaClient.Controls.TrackStatusControl.resources
+C:\Users\liyafei\Downloads\GazeTracker-master\src\OgamaClient\obj\Debug\OgamaClient.Properties.Resources.resources
+C:\Users\liyafei\Downloads\GazeTracker-master\src\OgamaClient\obj\Debug\OgamaClient.csproj.GenerateResource.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\OgamaClient\obj\Debug\OgamaClient.csproj.CoreCompileInputs.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\OgamaClient\obj\Debug\OgamaClient.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\OgamaClient\obj\Debug\OgamaClient.pdb

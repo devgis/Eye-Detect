@@ -1,0 +1,6 @@
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GTSettings.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GTSettings.pdb
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTSettings\obj\Debug\GTSettings.csproj.AssemblyReference.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTSettings\obj\Debug\GTSettings.csproj.CoreCompileInputs.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTSettings\obj\Debug\GTSettings.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTSettings\obj\Debug\GTSettings.pdb

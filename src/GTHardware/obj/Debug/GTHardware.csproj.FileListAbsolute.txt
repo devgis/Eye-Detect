@@ -1,0 +1,6 @@
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GTHardware.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GTHardware.pdb
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTHardware\obj\Debug\GTHardware.csproj.AssemblyReference.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTHardware\obj\Debug\GTHardware.csproj.CoreCompileInputs.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTHardware\obj\Debug\GTHardware.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTHardware\obj\Debug\GTHardware.pdb

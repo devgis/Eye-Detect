@@ -1,0 +1,6 @@
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GazeTrackingData.xsd
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GTCommunication.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GTCommunication.pdb
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTCommunication\obj\Debug\GTCommunication.csproj.CoreCompileInputs.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTCommunication\obj\Debug\GTCommunication.dll
+C:\Users\liyafei\Downloads\GazeTracker-master\src\GTCommunication\obj\Debug\GTCommunication.pdb

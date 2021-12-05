@@ -1,0 +1,18 @@
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\GazeTrackerUI.exe.log4net
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\SequenceCapture.exe
+C:\Users\liyafei\Downloads\GazeTracker-master\src\Debug\SequenceCapture.pdb
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCapture.csproj.AssemblyReference.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\DummyCalibrationWindow.baml
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\Simple Styles.baml
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCaptureMainWindow.baml
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\App.baml
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\DummyCalibrationWindow.g.cs
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCaptureMainWindow.g.cs
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\App.g.cs
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCapture_MarkupCompile.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCapture.g.resources
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCapture.Properties.Resources.resources
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCapture.csproj.GenerateResource.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCapture.csproj.CoreCompileInputs.cache
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCapture.exe
+C:\Users\liyafei\Downloads\GazeTracker-master\src\SequenceCapture\obj\Debug\SequenceCapture.pdb
