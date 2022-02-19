@@ -22,6 +22,7 @@
         <StackPanel Orientation="Horizontal" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Top">
             <Button x:Name="button_start" Content="start" Width="50" Height="20" Click="button_Click" Background="#FFACE2FB" Foreground="#FF9651FB" Margin="0,2,0,0" />
             <Button x:Name="button_stop" Content="stop" Width="50" Height="20" Click="button_Click" Background="#FFACE2FB" Foreground="#FF9651FB" Margin="5,2,0,0" />
+            <Button x:Name="button_hideshowyellowpoint" Content="Hide Yellow Point" Width="120" Height="20" Click="button_hideshowyellowpoint_Click"     Background="#FFACE2FB" Foreground="#FF9651FB" Margin="5,2,0,0" />
         </StackPanel>
         <WindowsFormsHost Grid.Row="1" x:Name="windowsFormsHost" Width="{Binding VideoImageWidth}" Height="{Binding VideoImageHeight}" Background="Black" Margin="0">
                 <emgu:ImageBox x:Name="pictureBox"/>

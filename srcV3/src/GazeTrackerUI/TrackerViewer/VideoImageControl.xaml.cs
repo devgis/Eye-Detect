@@ -265,5 +265,19 @@ namespace GazeTrackerUI.TrackerViewer
         {
             ShareWindow.RandomSpotWindow.button_Click(sender, e);
         }
+
+        private void button_hideshowyellowpoint_Click(object sender, RoutedEventArgs e)
+        {
+            if (ShareWindow.RandomSpotWindow.YellowPointVisibility == Visibility.Visible)
+            {
+                ShareWindow.RandomSpotWindow.YellowPointVisibility = Visibility.Hidden;
+                button_hideshowyellowpoint.Content = "Show Yellow Point";
+            }
+            else
+            {
+                ShareWindow.RandomSpotWindow.YellowPointVisibility = Visibility.Visible;
+                button_hideshowyellowpoint.Content = "Hide Yellow Point";
+            }
+        }
     }
 }

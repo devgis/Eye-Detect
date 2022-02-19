@@ -51,7 +51,6 @@ namespace GazeTrackerUI
 
         }
 
-
         public double Left1
         {
             get => left; set
@@ -60,6 +59,17 @@ namespace GazeTrackerUI
                 NotifyPropertyChanged("Left1");
             }
         }
+        private Visibility yellowPointVisibility = Visibility.Visible;
+        public Visibility YellowPointVisibility
+        {
+            get => yellowPointVisibility; set
+            {
+                yellowPointVisibility = value;
+                NotifyPropertyChanged("YellowPointVisibility");
+            }
+        }
+
+
         public double Top1
         {
             get => top; set
@@ -243,7 +253,19 @@ namespace GazeTrackerUI
                 {
                     StaticEllipses[i] = new Ellipse();
                     grid.Children.Add(StaticEllipses[i]);
-                    StaticEllipses[i].Visibility = Visibility.Visible;
+
+                    //Set point Visibility;
+                    if (i == 5)
+                    {
+                        Binding binding = new Binding();
+                        binding.Source = this;
+                        binding.Path = new PropertyPath("YellowPointVisibility");
+                        StaticEllipses[i].SetBinding(Ellipse.VisibilityProperty, binding);
+                    }
+                    else
+                    {
+                        StaticEllipses[i].Visibility = Visibility.Hidden;
+                    }
                 }
                 Ellipse ellipse = StaticEllipses[i];
 
@@ -251,13 +273,19 @@ namespace GazeTrackerUI
                 {
                     ellipse.Width = dcenter;
                     ellipse.Height = dcenter;
-                    ellipse.Fill = new SolidColorBrush(Colors.Yellow); ;
+                    ellipse.Fill = new SolidColorBrush(Colors.Yellow);
+                    //StaticEllipses[i].Visibility = YellowPointVisibility; //Visibility.Visible;
+                    //Binding binding = new Binding();
+                    //binding.Source = this;
+                    //binding.Path = new PropertyPath("YellowPointVisibility");
+                    //StaticEllipses[i].SetBinding(Ellipse.VisibilityProperty, binding);
                 }
                 else
                 {
                     ellipse.Width = dcommon;
                     ellipse.Height = dcommon;
-                    ellipse.Fill = new SolidColorBrush(Colors.DarkGray); ;
+                    ellipse.Fill = new SolidColorBrush(Colors.DarkGray);
+                    //StaticEllipses[i].Visibility = Visibility.Hidden;
                 }
 
 
