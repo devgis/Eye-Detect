@@ -133,11 +133,19 @@ namespace GTHardware.Cameras.DirectShow
         {
             Initialize();
             DsDevice[] capDevices = DsDevice.GetDevicesOfCat(FilterCategory.VideoInputDevice);
-            this.deviceNumber = 0;
+            this.deviceNumber = 1; //liyafei  change the camer
             this.deviceMode = 0;
 
-            if (capDevices.Length > 0)
-                NewCamera(capDevices[deviceNumber], deviceMode, 0, 0); //force default values
+            //liyafei  change the camer
+            if (capDevices.Length > 1)
+            {
+                NewCamera(capDevices[1], deviceMode, 0, 0); //force default values
+            }
+            else if (capDevices.Length > 0)
+            {
+                NewCamera(capDevices[0], deviceMode, 0, 0); //force default values
+            }
+                
         }
 
 

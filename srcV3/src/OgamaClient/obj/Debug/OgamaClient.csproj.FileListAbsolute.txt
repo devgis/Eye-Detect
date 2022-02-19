@@ -1,0 +1,12 @@
+D:\Github\Eye-Detect\srcV2\src\Debug\GazeTrackerUI.exe.log4net
+D:\Github\Eye-Detect\srcV2\src\Debug\OgamaClient.dll
+D:\Github\Eye-Detect\srcV2\src\Debug\OgamaClient.pdb
+D:\Github\Eye-Detect\srcV2\src\OgamaClient\obj\Debug\OgamaClient.csproj.AssemblyReference.cache
+D:\Github\Eye-Detect\srcV2\src\OgamaClient\obj\Debug\OgamaClient.g.resources
+D:\Github\Eye-Detect\srcV2\src\OgamaClient\obj\Debug\OgamaClient.Controls.EyeVideoControl.resources
+D:\Github\Eye-Detect\srcV2\src\OgamaClient\obj\Debug\OgamaClient.Controls.TrackStatusControl.resources
+D:\Github\Eye-Detect\srcV2\src\OgamaClient\obj\Debug\OgamaClient.Properties.Resources.resources
+D:\Github\Eye-Detect\srcV2\src\OgamaClient\obj\Debug\OgamaClient.csproj.GenerateResource.cache
+D:\Github\Eye-Detect\srcV2\src\OgamaClient\obj\Debug\OgamaClient.csproj.CoreCompileInputs.cache
+D:\Github\Eye-Detect\srcV2\src\OgamaClient\obj\Debug\OgamaClient.dll
+D:\Github\Eye-Detect\srcV2\src\OgamaClient\obj\Debug\OgamaClient.pdb

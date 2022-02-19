@@ -1,0 +1,6 @@
+D:\Github\Eye-Detect\srcV2\src\Debug\GazeTrackingData.xsd
+D:\Github\Eye-Detect\srcV2\src\Debug\GTCommunication.dll
+D:\Github\Eye-Detect\srcV2\src\Debug\GTCommunication.pdb
+D:\Github\Eye-Detect\srcV2\src\GTCommunication\obj\Debug\GTCommunication.csproj.CoreCompileInputs.cache
+D:\Github\Eye-Detect\srcV2\src\GTCommunication\obj\Debug\GTCommunication.dll
+D:\Github\Eye-Detect\srcV2\src\GTCommunication\obj\Debug\GTCommunication.pdb

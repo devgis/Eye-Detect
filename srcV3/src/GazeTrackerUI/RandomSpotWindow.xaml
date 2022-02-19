@@ -1,0 +1,29 @@
+﻿<Window x:Class="GazeTrackerUI.RandomSpotWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GazeTrackerUI"
+        mc:Ignorable="d" SizeChanged="Window_SizeChanged"
+        Title="RandomSpotWindow" Height="{Binding Path=Windowheight,Mode=TwoWay}" Width="{Binding Path=Windowwith,Mode=TwoWay}" Background="Black" Closing="Window_Closing">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Canvas x:Name="grid">
+            <!--<Ellipse x:Name="ellipse2" Visibility="Visible"  Width="10" Height="10" Fill="White">
+            </Ellipse>-->
+            <Ellipse x:Name="ellipse" Visibility="Hidden" Panel.ZIndex="99" Canvas.Left="{Binding Path=Left1}" Canvas.Top="{Binding Path=Top1}"  Width="10" Height="10" Fill="White">
+            </Ellipse>
+        </Canvas>
+        <!--<StackPanel Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Button x:Name="button_start" Content="start" Width="50" Height="20" Click="button_Click" Background="#FFACE2FB" Foreground="#FF9651FB" Margin="10,10,0,0" />
+            <Button x:Name="button_stop" Content="stop" Width="50" Height="20" Click="button_Click" Background="#FFACE2FB" Foreground="#FF9651FB" Margin="10,10,0,0" />
+        </StackPanel>-->
+    </Grid>
+</Window>
+

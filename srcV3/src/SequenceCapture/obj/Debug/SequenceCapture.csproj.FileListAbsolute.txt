@@ -1,0 +1,18 @@
+D:\Github\Eye-Detect\srcV2\src\Debug\GazeTrackerUI.exe.log4net
+D:\Github\Eye-Detect\srcV2\src\Debug\SequenceCapture.exe
+D:\Github\Eye-Detect\srcV2\src\Debug\SequenceCapture.pdb
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCapture.csproj.AssemblyReference.cache
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\DummyCalibrationWindow.baml
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\Simple Styles.baml
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCaptureMainWindow.baml
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\App.baml
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\DummyCalibrationWindow.g.cs
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCaptureMainWindow.g.cs
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\App.g.cs
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCapture_MarkupCompile.cache
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCapture.g.resources
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCapture.Properties.Resources.resources
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCapture.csproj.GenerateResource.cache
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCapture.csproj.CoreCompileInputs.cache
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCapture.exe
+D:\Github\Eye-Detect\srcV2\src\SequenceCapture\obj\Debug\SequenceCapture.pdb
